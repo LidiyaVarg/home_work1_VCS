@@ -1,2 +1,2 @@
 # home_work1_VCS
- home work1.Text repository 
+ home work1.Test repository 
